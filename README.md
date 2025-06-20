@@ -212,3 +212,7 @@ logging.basicConfig(level=logging.DEBUG)
 - Add docstrings to all functions
 - Include type hints where possible
 - Write comprehensive error handling
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
