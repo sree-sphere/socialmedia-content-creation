@@ -44,7 +44,7 @@ This uses agentic AI to generate content plans and automatically create multimed
    streamlit run code/streamlit_app.py
    ```
 
-## 📋 Usage Guide
+## Usage Guide
 
 ### Step 1: Initialize Models
 1. Open the app in your browser
